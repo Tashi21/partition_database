@@ -36,16 +36,22 @@ Our question aims to study how the gender of a character impacts the conflict a 
 ![](images\cause_of_death.png)
 
 # Analysis
-&nbsp;
 
 #### *a) Conflict type and gendered participation*
+
+Our data reveals that there is a **larger number of men participating in conflict**, however this is expected given the greater number of male characters in the stories. We chose to focus on patterns and differences emerging from the same.
+
+The **number of men and women participating in religious conflicts as a proportion of their respective totals is not very different and represents the majority of conflict cases.** This tells us that partition violence was primarily driven by religion, and involved both men and women inadvertently. However, a variation comes about in the proportion of women who were involved in class-based and gender-based violence: 17.34% and 13.5% of women who participated in conflicts participated in gender and class based conflict, respectively, while this number stands at 5.6% and 4.17% for men.
+
+For gender-based violence, the primary reason could be that women were on the receiving end of such violence, which led to them being mentioned during these events more frequently. However, class-based conflict stands out -- a comparatively greater number of mentions of women (9% more than men as a proportion of their totals) around the same could be because of the differences in the way class status is ascribed to men and women and the consequences of the same. The power imbalances arising from women’s poor economic conditions could be another reason increasing their mentions during class conflicts.
+
+One feature that stands out and corroborates other existing information about partition, is that the unknown category which included mobs, had a disproportionately high number of conflicts ascribed to religion (63%) versus other categories. This indicates that mobs were primarily driven by religion, and were religiously homogeneous. While other forms of conflict such as gender or nation-based conflict were relevant, this was nowhere close to the violence sparked by religion.
+
 &nbsp;
 
 <center>
 
 ![**Figure 1: Women participating in various types of conflict**](images/conflict_type_female.png)
-
-*As the graph shows, 44.4% of the conflicts women engage in are religious, and the lowest conflict type is Caste with 0.5%. The total number of conflicts are 196, almost half of them men.*
 
 </center>
 
@@ -55,19 +61,9 @@ Our question aims to study how the gender of a character impacts the conflict a 
 
 ![**Figure 2: Men participating in various types of conflict**](images/conflict_type_male.png)
 
-*As the graph shows, 59.4% of the conflicts men engage in are religious, and the lowest conflict type is Caste with 0.2%. The total number of conflicts are 335, significantly more than women.*
-
 </center>
 
 &nbsp;
-
-Our data reveals that there is a **larger number of men participating in conflict**, however this is expected given the greater number of male characters in the stories. We chose to focus on patterns and differences emerging from the same.
-
-The **number of men and women participating in religious conflicts as a proportion of their respective totals is not very different and represents the majority of conflict cases.** This tells us that partition violence was primarily driven by religion, and involved both men and women inadvertently. However, a variation comes about in the proportion of women who were involved in class-based and gender-based violence: 17.34% and 13.5% of women who participated in conflicts participated in gender and class based conflict, respectively, while this number stands at 5.6% and 4.17% for men.
-
-For gender-based violence, the primary reason could be that women were on the receiving end of such violence, which led to them being mentioned during these events more frequently. However, class-based conflict stands out -- a comparatively greater number of mentions of women (9% more men as a proportion of their totals) around the same could be because of the differences in the way class status is ascribed to men and women and the consequences of the same. The power imbalances arising from especially lower economic statuses women were in, could be another reason increasing their mentions during conflicts.
-
-One feature that stands out and corroborates other existing information about partition, is that the unknown category which included mobs, had a disproportionately high number of conflicts ascribed to religion (63%) versus other categories. This indicates that mobs were primarily driven by religion, and were religiously homogeneous. While other forms of conflict such as gender or nation-based conflict were relevant, this was nowhere close to the violence sparked by religion.
 
 <center>
 
@@ -79,21 +75,19 @@ One feature that stands out and corroborates other existing information about pa
 
 #### *b) Cause of Death and Gender*
 
+When it comes to studying the cause of death, **mob violence is the largest contributor to deaths**, and the number of men and women killed by the same, as a proportion of their totals, is not particularly different. However, the reasons for these deaths could differ. Perhaps, the reason for women’s deaths at the hands of mob violence was a product of both religious and gendered conflict, as they were frequent victims of sexual violence too.
+
+For the cases of non military deaths, however, the proportion of men killed vs the proportion of women is considerably different, with the deaths for men being nearly double those of women. This could be a factor of just having a greater number of men in our dataset, but it could also be because in several stories the primary character is male, and we thus understand the story through his lens. We explore his interactions with men more frequently and the women in such contexts are primarily background characters - violence against them is referred to, but our primary frame of reference remains the man. Along with this, given the larger number of men to be found in public spaces vs women, it is likely that these deaths would be higher.
+
 &nbsp;
 
 <center>
 
 ![**Figure 4: Cause of Death and Gender**](images/gender_vs_cause_of_death.png)
 
-*As seen above, more male deaths occured in all, but within that, mob-violence is the most populated cause of death among both men and women, followed by non-military killings*
-
 </center>
 
 &nbsp;
-
-When it comes to studying the cause of death, **mob violence is the largest contributor to deaths**, and the number of men and women killed by the same, as a proportion of their totals, is not particularly different. However, the reasons for these deaths could differ. Perhaps, the reason for women’s deaths at the hands of mob violence was a product of both religious and gendered conflict, as they were frequent victims of sexual violence too.
-
-For the cases of non military deaths, however, the proportion of men killed vs the proportion of women is considerably different, with the deaths for men being nearly double those of women. This could be a factor of just having a greater number of men in our dataset, but it could also be because in several stories the primary character is male, and we thus understand the story through his lens. We explore his interactions with men more frequently and the women in such contexts are primarily background characters - violence against them is referred to, but our primary frame of reference remains the man. Along with this, given the larger number of men to be found in public spaces vs women, it is likely that these deaths would be higher.
 
 # Reflection
 
